@@ -1,4 +1,5 @@
 # AI Persona Generator with Perplexity
+https://ai-persona-perplexity.vercel.app/
 
 ## Overview
 A sophisticated web application that leverages artificial intelligence to generate detailed, contextual personas. This project demonstrates modern web development practices, API integration, and AI implementation in a practical business context.
