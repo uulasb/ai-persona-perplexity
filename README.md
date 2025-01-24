@@ -7,13 +7,16 @@ A sophisticated web application that leverages artificial intelligence to genera
 - React-based frontend with modern state management
 - AI-powered data processing and generation
 - RESTful API architecture
-- Experimental Real-time interaction capabilities
+- Experimental real-time interaction capabilities
+- Responsive and accessible UI components
+- Modern TypeScript implementation
 
 ## Tech Stack
-- Frontend: React.js, Next.js
-- State Management: React Context/Redux
-- Styling: Tailwind CSS
-- API Integration
+- Frontend: React.js, Next.js 13+
+- State Management: React Context
+- Styling: Tailwind CSS, Shadcn/ui
+- API Integration: Perplexity AI
+- TypeScript
 - Authentication & Security
 
 ## Development Status
