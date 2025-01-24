@@ -1,4 +1,4 @@
-# AI Persona Generator
+# AI Persona Generator with Perplexity
 
 ## Overview
 A sophisticated web application that leverages artificial intelligence to generate detailed, contextual personas. This project demonstrates modern web development practices, API integration, and AI implementation in a practical business context.
